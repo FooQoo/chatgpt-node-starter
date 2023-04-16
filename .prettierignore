@@ -1,0 +1,6 @@
+yarn.lock
+package.json
+.*
+public
+docs
+prisma/schema.prisma
